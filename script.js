@@ -1,1 +1,1 @@
-window.location.href = "https://www.netflix.com/watch/80200571?trackId=255824129&tctx=1%2C7%2C3c34fd8f-8b26-4ac7-b9b1-0557811f3738-7037555%2C3c34fd8f-8b26-4ac7-b9b1-0557811f3738-7037555%7C2%2Cunknown%2C%2C%2CtitlesResults%2C%2CVideo%3A80200571%2CdetailsPagePlayButton"
+window.location.href = "https://www.netflix.com/watch/70189287?trackId=14036108&tctx=8%2C3%2C9dd98542-6df5-43a9-a260-3d4aa56aaef4-214504513%2Cunknown%2Cunknown%2C%2C%2C%2C%2CVideo%3A70189287%2CdetailsPagePlayButton"
