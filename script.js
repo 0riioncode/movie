@@ -1,1 +1,1 @@
-window.location.href = "https://www.netflix.com/watch/81440138?trackId=254814401&tctx=1%2C3%2Cced3b315-7367-41aa-987f-e642413106e7-9978457%2CNES_8A1FAA235E3E548E0BFCB3149CBAB4-E5FEE6D9B8A930-553DF6970A_p_1696623352959%2Cunknown%2C%2C%2C%2C%2CVideo%3A81317673%2C"
+window.location.href = "https://www.youtube.com/watch?v=lCYUqt8wmZU"
